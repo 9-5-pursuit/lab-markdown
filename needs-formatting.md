@@ -3,7 +3,7 @@
 # All about Raccoons
 
 <!-- The text below is ASCII art of a raccoon. Wrap it in a code block. -->
-```
+```js
                         ,,,
                      .'    `/\_/\
                    .'       <@I@>
